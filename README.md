@@ -1,5 +1,7 @@
 # The Wild Oasis
 
-## The URL of project is
+The Hotel Management Project built using React,React Query and Supabase.
+
+### The URL of project is
 
 https://the-wild-oasis-ruhul.netlify.app
